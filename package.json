@@ -1,0 +1,19 @@
+{
+  "name": "wp-racruit-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuveAdrian/wp-racruit-task.git"
+  },
+  "author": "Adrian Grabkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuveAdrian/wp-racruit-task/issues"
+  },
+  "homepage": "https://github.com/JuveAdrian/wp-racruit-task#readme"
+}
